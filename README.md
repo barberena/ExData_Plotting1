@@ -1,3 +1,19 @@
+## Hello Fellow Coursera Student
+In this repository you will find the 4 PNG files along with their 4 R
+files (plot1.R, plot2.R,, etc.).  I have included an extra R file which
+is my personal R library Tool Box that I am building as I work through
+the different Data Science classes.  These are for R functions I've
+written that I find useful.  For example, I have a logging function
+for those complex R programs that I would like to log (document) each
+step.  During this course project, I added the function
+readBigDataSubsetRegEx, which allows me to generate a subset of the
+large data file, reading in only chunks of data at a time and saving
+those rows that match the Regular Expression given.  I can then read
+that smaller file and not worry about running out of memory.
+
+  Thanks for Reading.
+
+
 ## Introduction
 
 This assignment uses data from
